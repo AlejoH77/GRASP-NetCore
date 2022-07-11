@@ -3,7 +3,7 @@
     public class QualitySongController
     {
 
-        public void ConvertQuality(Mp3 song)
+        public void ConvertQualityMp3(Mp3 song)
         {
             song.Convert(128);
         }
